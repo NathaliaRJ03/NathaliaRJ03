@@ -1,7 +1,7 @@
-### Olá Devs, Eu sou a Nathália Duarte👋
+## Olá Devs, Eu sou a Nathália Duarte👋
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nath%C3%A1lia-duarte-a31774235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
- #### EMAIL PARA CONTATO: nathaliaduartedev75@gmail.com
+#### E-MAIL: nathaliaduartedev75@gmail.com
 
  ![NathaliaRJ03 GItHub status](https://github-readme-stats.vercel.app/api?username=NathaliaRJ03&show_icons=true&theme=radical)
  
