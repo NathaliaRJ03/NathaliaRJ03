@@ -1,7 +1,8 @@
 ### Olá Devs, Eu sou a Nathália Duarte👋
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nath%C3%A1lia-duarte-a31774235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nathaliamaiseujogos75@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nathaliamaiseujogos75@gmail.com)
 
  ![NathaliaRJ03 GItHub status](https://github-readme-stats.vercel.app/api?username=NathaliaRJ03&show_icons=true&theme=radical)
  
