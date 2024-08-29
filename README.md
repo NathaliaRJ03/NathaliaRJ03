@@ -4,7 +4,7 @@
 
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%232a1a36?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
  
- E-MAIL: nathaliaduartedev75@gmail.com</span>
+ ##### E-MAIL: nathaliaduartedev75@gmail.com</span>
 
  ![NathaliaRJ03 GItHub status](https://github-readme-stats.vercel.app/api?username=NathaliaRJ03&show_icons=true&theme=radical)
  
@@ -22,10 +22,10 @@
   <img alt="C" src="https://img.shields.io/badge/C-2a1a36?style=for-the-badge&logo=c&logoColor=white" height="40" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-2a1a36?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-2a1a36?style=for-the-badge&logo=react&logoColor=white" height="40"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="40"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2a1a36?style=for-the-badge&logo=bootstrap&logoColor=white" height="40"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2a1a36?style=for-the-badge&logo=javascript&logoColor=white" height="40"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-2a1a36?style=for-the-badge&logo=mysql&logoColor=white" height="40" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-2a1a36?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
 </p>
 
- Apaixonada pela tecnologia, aprendizado e por contribuir em mudar o mundo e a vida das pessoas atráves da programação.
+ Apaixonada pela tecnologia, aprendizado e por contribuir em mudar o mundo e a vida das pessoas atráves da programação.❤️
