@@ -5,12 +5,13 @@
 
  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%232a1a36?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
  
- <span style="color:#2a1a36;">E-MAIL:</span> <span style="color:#2a1a36;">nathaliaduartedev75@gmail.com</span>
+ E-MAIL: <span style="color:#2a1a36">nathaliaduartedev75@gmail.com</span>
+
 
  ![NathaliaRJ03 GItHub status](https://github-readme-stats.vercel.app/api?username=NathaliaRJ03&show_icons=true&theme=radical)
  
  ## Me especializando em:
- <img align= "center" alt="html5" src= "https://img.shields.io/badge/Java-2a1a36?style=for-the-badge&logo=openjdk&logoColor=FF00F6&color:white" height="40" /> <img align= "center" alt="html5" src= "https://img.shields.io/badge/Spring-2a1a36?style=for-the-badge&logo=spring&logoColor=white" height="40" /> <img align= "center" alt="html5" src= "https://img.shields.io/badge/MongoDB-2a1a36?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>
+ <img align= "center" alt="html5" src= "https://img.shields.io/badge/Java-2a1a36?style=for-the-badge&logo=openjdk&logoColor=white&color:white" height="40" /> <img align= "center" alt="html5" src= "https://img.shields.io/badge/Spring-2a1a36?style=for-the-badge&logo=spring&logoColor=white" height="40" /> <img align= "center" alt="html5" src= "https://img.shields.io/badge/MongoDB-2a1a36?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>
 
  ## Conhecimentos: 
 <p align="center">
