@@ -6,7 +6,7 @@
  ![NathaliaRJ03 GItHub status](https://github-readme-stats.vercel.app/api?username=NathaliaRJ03&showicons=true&theme=radical)
 
  ## Me especializando em:
- <img align= "center" alt="html5" src= "https://img.shields.io/badge/Java-2a1a36?style=for-the-badge&logo=openjdk&logoColor=white&color:white" height="40" /> <img align= "center" alt="html5" src= "https://img.shields.io/badge/Spring-2a1a36?style=for-the-badge&logo=spring&logoColor=white" height="30" /> 
+ <img align= "center" alt="html5" src= "https://img.shields.io/badge/Java-2a1a36?style=for-the-badge&logo=openjdk&logoColor=white&color:white" height="30" /> <img align= "center" alt="html5" src= "https://img.shields.io/badge/Spring-2a1a36?style=for-the-badge&logo=spring&logoColor=white" height="30" /> 
 
  ## Conhecimentos: 
 <p align="center">
