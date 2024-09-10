@@ -1,9 +1,7 @@
 <img src="https://github.com/user-attachments/assets/404996cf-02a0-4814-b794-76ffc2785f6b" alt="IconPerfilNathalia" height="400" align="right">
 
-## Olá Devs, Eu sou a Nathália Duarte👋
-
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%232a1a36?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
- 
+## Olá Devs, Eu sou a Nathália Duarte👋 
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%232a1a36?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/> <br>
  ![NathaliaRJ03 GItHub status](https://github-readme-stats.vercel.app/api?username=NathaliaRJ03&show_icons=true&theme=radical)
  
  ## Me especializando em:
