@@ -4,8 +4,7 @@
 
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%232a1a36?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
  
- ##### E-MAIL: nathaliaduartedev75@gmail.com</span>
-
+ ## E-MAIL: nathaliaduartedev75@gmail.com</span>
  ![NathaliaRJ03 GItHub status](https://github-readme-stats.vercel.app/api?username=NathaliaRJ03&show_icons=true&theme=radical)
  
  ## Me especializando em:
